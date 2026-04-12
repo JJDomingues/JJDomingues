@@ -2,16 +2,16 @@
 
 ## 🌍 From Brazil | Building a Career in Data & AI
 
- I'm a **self-taught developer** transitioning into **Data Science and AI Engineering**. Currently based in **Ceará, Brazil** 🇧🇷, working towards remote international opportunities while building automation solutions for healthcare clinics.
+I'm a **self-taught developer** transitioning into **Data Science and AI Engineering**. Currently based in **Ceará, Brazil** 🇧🇷, working towards remote international opportunities in data-driven companies.
 
 ---
 
 ## 👨‍💻 What I'm Currently Working On
 
 - 📊 Learning **Python for Data Science** (Pandas, NumPy, scikit-learn)
-- 🤖 Building **AI-powered automation** for small clinics (N8N, OpenAI API, RAG)
+- 🤖 Building **AI-powered projects** with Python, OpenAI API, and LangChain
 - 💻 Strengthening **SQL** and **Git/GitHub** fundamentals
-- 🎯 Planning my **15-year roadmap**: Data Analyst → ML Engineer → Head of Data
+- 🎯 Executing my **[15-year roadmap](https://github.com/JJDomingues/my-15-year-roadmap)**: Data Analyst → ML Engineer → Head of Data
 
 ---
 
@@ -24,9 +24,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ### Working With
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ### Next on the List
 - Machine Learning (scikit-learn, XGBoost)
