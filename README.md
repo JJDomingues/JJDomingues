@@ -2,7 +2,7 @@
 
 ## 🌍 From Brazil | Building a Career in Data & AI
 
-I'm a **self-taught developer** transitioning into **Data Science and AI Engineering**. Currently based in **Ceará, Brazil** 🇧🇷, working towards remote international opportunities in data-driven companies.
+I'm a **self-taught developer** transitioning into **Data Science and AI Engineering**. Currently based in **Pará, Brazil** 🇧🇷, working towards remote international opportunities in data-driven companies.
 
 ---
 
