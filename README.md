@@ -60,7 +60,7 @@ I believe in **transparent learning** — documenting my journey, sharing my pro
 
 - 📧 Email: [josibertotdomingues@gmail.com](mailto:josibertotdomingues@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/josibertotdomingues](https://www.linkedin.com/in/josibertotdomingues/)
-- 📍 Location: Ceará, Brazil 🇧🇷
+- 📍 Location: Pará, Brazil 🇧🇷
 - 🌎 Open to: Remote opportunities worldwide
 
 ---
