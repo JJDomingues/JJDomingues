@@ -2,7 +2,7 @@
 
 ## 🌍 From Brazil | Building a Career in Data & AI
 
-I'm a **self-taught developer** transitioning into **Data Science and AI Engineering**. Currently based in **Pará, Brazil** 🇧🇷, working towards remote international opportunities in data-driven companies.
+I'm a **self-taught developer** transitioning into **Data Science and AI Engineering**. Currently based in **Ceará, Brazil** 🇧🇷, working towards remote international opportunities in data-driven companies.
 
 ---
 
@@ -18,17 +18,20 @@ I'm a **self-taught developer** transitioning into **Data Science and AI Enginee
 ## 🛠️ Tech Stack
 
 ### Currently Learning
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ### Working With
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ### Next on the List
+
 - Machine Learning (scikit-learn, XGBoost)
 - Docker & Cloud Deployment (AWS/GCP)
 - dbt & Airflow (Data Engineering)
@@ -55,9 +58,9 @@ I believe in **transparent learning** — documenting my journey, sharing my pro
 
 ## 💬 Let's Connect
 
-- 📧 Email: josibertotdomingues@gmai.com]
-- 🔗 LinkedIn: [[[Your LinkedIn]](https://www.linkedin.com/in/josibertotdomingues/)]
-- 📍 Location: Pará, Brazil 🇧🇷
+- 📧 Email: [josibertotdomingues@gmail.com](mailto:josibertotdomingues@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/josibertotdomingues](https://www.linkedin.com/in/josibertotdomingues/)
+- 📍 Location: Ceará, Brazil 🇧🇷
 - 🌎 Open to: Remote opportunities worldwide
 
 ---
