@@ -67,7 +67,7 @@ I believe in **transparent learning** — documenting my journey, sharing my pro
 
 ## 📈 GitHub Stats
 
-![JJDomingues's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJDomingues&show_icons=true&theme=radical)
+![JJDomingues's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJDomingues&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)
 
 ---
 
