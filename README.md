@@ -55,9 +55,9 @@ I believe in **transparent learning** — documenting my journey, sharing my pro
 
 ## 💬 Let's Connect
 
-- 📧 Email: [Your email here]
-- 🔗 LinkedIn: [Your LinkedIn]
-- 📍 Location: Ceará, Brazil 🇧🇷
+- 📧 Email: josibertotdomingues@gmai.com]
+- 🔗 LinkedIn: [[[Your LinkedIn]](https://www.linkedin.com/in/josibertotdomingues/)]
+- 📍 Location: Pará, Brazil 🇧🇷
 - 🌎 Open to: Remote opportunities worldwide
 
 ---
@@ -68,4 +68,4 @@ I believe in **transparent learning** — documenting my journey, sharing my pro
 
 ---
 
-**💡 Fun Fact:** I wake up at 4 AM every day for jiu-jitsu, prayer, and coding. Discipline is my superpower.
+**💡 Fun Fact:** I wake up at 4 a.m. every day to stretch, take a cold shower, pray, and plan my day. Discipline is my superpower.
