@@ -12,6 +12,7 @@ I'm a **self-taught developer** transitioning into **Data Science and AI Enginee
 - 🤖 Building **AI-powered projects** with Python, OpenAI API, and LangChain
 - 💻 Strengthening **SQL** and **Git/GitHub** fundamentals
 - 🎯 Executing my **[15-year roadmap](https://github.com/JJDomingues/my-15-year-roadmap)**: Data Analyst → ML Engineer → Head of Data
+- 🗂️ Building **[file-organizer](https://github.com//JJDomingues/file-organizer)** - Python script that organizes files by date 
 
 ---
 
