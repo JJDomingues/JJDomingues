@@ -2,37 +2,29 @@
 
 ## 🌍 From Brazil | Building a Career in Data & AI
 
-I'm a **self-taught developer** transitioning into **Data Science and AI Engineering**. Currently based in **Ceará, Brazil** 🇧🇷, working towards remote international opportunities in data-driven companies.
+I'm a **self-taught developer** transitioning into **Data Science and AI Engineering**. Currently based in **Pará, Brazil** 🇧🇷, working towards remote international opportunities in data-driven companies.
 
 ---
 
 ## 👨‍💻 What I'm Currently Working On
 
 - 📊 Learning **Python for Data Science** (Pandas, NumPy, scikit-learn)
-- 🤖 Building **AI-powered projects** with Python, OpenAI API, and LangChain
 - 💻 Strengthening **SQL** and **Git/GitHub** fundamentals
 - 🎯 Executing my **[15-year roadmap](https://github.com/JJDomingues/my-15-year-roadmap)**: Data Analyst → ML Engineer → Head of Data
-- 🗂️ Building **[file-organizer](https://github.com//JJDomingues/file-organizer)** - Python script that organizes files by date 
+- ✅ Delivered **[file-organizer v1.0](https://github.com/JJDomingues/file-organizer)** - Python script that organizes files by date
+- 📚 Week 2 starting Apr 20 — SQL + sqlite3 + Pandas
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Currently Learning
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-### Working With
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
 ### Next on the List
-
 - Machine Learning (scikit-learn, XGBoost)
 - Docker & Cloud Deployment (AWS/GCP)
 - dbt & Airflow (Data Engineering)
@@ -42,10 +34,10 @@ I'm a **self-taught developer** transitioning into **Data Science and AI Enginee
 
 ## 🎯 2026 Goals
 
-- ✅ Build **6 public projects** (one per month)
-- ✅ Contribute **150+ commits** consistently
-- ✅ Complete **Foundation Phase** of my learning roadmap
-- ✅ Land first **Data Analyst Jr** position or remote contract
+- 🔄 Build **6 public projects** (one per month)
+- 🔄 Contribute **150+ commits** consistently
+- 🔄 Complete **Foundation Phase** of my learning roadmap
+- 🔄 Land first **Data Analyst Jr** position or remote contract
 
 ---
 
@@ -69,7 +61,5 @@ I believe in **transparent learning** — documenting my journey, sharing my pro
 ## 📈 GitHub Stats
 
 ![JJDomingues's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJDomingues&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)
-
----
 
 **💡 Fun Fact:** I wake up at 4 a.m. every day to stretch, take a cold shower, pray, and plan my day. Discipline is my superpower.
