@@ -11,20 +11,24 @@ I'm a **self-taught developer** transitioning into **Data Science and AI Enginee
 - 📊 Learning **Python for Data Science** (Pandas, NumPy, scikit-learn)
 - 💻 Strengthening **SQL** and **Git/GitHub** fundamentals
 - 🎯 Executing my **[15-year roadmap](https://github.com/JJDomingues/my-15-year-roadmap)**: Data Analyst → ML Engineer → Head of Data
-- ✅ Delivered **[file-organizer v1.0](https://github.com/JJDomingues/file-organizer)** - Python script that organizes files by date
-- 📚 Week 2 starting Apr 20 — SQL + sqlite3 + Pandas
+- ✅ Delivered **[file-organizer v1.0](https://github.com/JJDomingues/file-organizer)** — Python script that organizes files by date
+- ✅ Week 2 delivered — SQL + sqlite3 + Pandas
+- ✅ Week 3 delivered — Matplotlib + JOIN + Dashboard
+- 📚 Week 4 in progress (Mai 4-8) — Estatística + Dataset Real (EDA)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Currently Learning
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ### Next on the List
+
 - Machine Learning (scikit-learn, XGBoost)
 - Docker & Cloud Deployment (AWS/GCP)
 - dbt & Airflow (Data Engineering)
